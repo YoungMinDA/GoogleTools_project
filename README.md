@@ -14,3 +14,7 @@
 
 ##### 느낀점 : Tableau보다 조금 더 직관적이고 사용법이 간편하여 익히기 조금 쉬웠습니다. 하지만 조금은 투박한 느낌이 들었고, 구글 클라우드에서 진행되는 만큼 속도가 조금 느린 느낌을 받았습니다. 다음 미니 프로젝트에서는 다양한 데이터를 sql을 통해 필요한 데이터를 추출하여 대시보드를 만들어 보려고 합니다.
  
+ 
+ ![스크린샷 2023-04-25 오후 4 30 30](https://user-images.githubusercontent.com/109095108/234453236-17ed818d-6f8c-4088-afbf-9b189777e541.png)
+
+[India_HR_Dashboard.pdf](https://github.com/YoungMinSW/LookerDataStudio_project/files/11328452/India_HR_Dashboard.pdf)

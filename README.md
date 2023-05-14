@@ -1,6 +1,6 @@
 # GoogleTools 프로젝트
 
-구글 회사의 Bigquery, Analytics, looker data studio 등 다양한 툴을 다루는 프로젝트입니다. 
+구글 회사의 Analytics, looker data studio 등 다양한 툴을 다루는 프로젝트입니다. 
 
 <pre>
 - 인도 인적 자원 분석 프로젝트

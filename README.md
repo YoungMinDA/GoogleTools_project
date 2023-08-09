@@ -4,7 +4,6 @@
 
 <pre>
 - 인도 인적 자원 분석 프로젝트
-- 
 
 
 </pre> 
@@ -13,21 +12,8 @@
 - Python
 - SQL
 - Excel
-- Google Bigquery
 - Google Analytics
 - looker data studio
-
-### GoogleTools 를 사용하며 배운점
-
--  
-
-- 
-
-- 
-
-- 
-
-- 
 
 
 ### 대시보드

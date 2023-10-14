@@ -15,6 +15,7 @@ Power BI & looker data studio 등 다양한 툴을 다루는 프로젝트입니�
 - Excel
 - Power BI
 - looker data studio
+- Azure
 
 
 ### 대시보드

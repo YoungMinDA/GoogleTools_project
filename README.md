@@ -6,7 +6,6 @@ Power BI & looker data studio 등 다양한 툴을 다루는 프로젝트입니�
 - 인도 인적 자원 대시보드 개발 프로젝트
 - 넷플릭스 대시보드 개발 프로젝트
 - Amazon Prime 분석 프로젝트
-- 
 </pre> 
 
 ### 사용 기술

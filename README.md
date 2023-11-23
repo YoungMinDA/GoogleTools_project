@@ -8,7 +8,6 @@ Power BI & looker data studio 등 다양한 툴을 다루는 프로젝트입니�
 - Amazon Prime 분석 프로젝트
 </pre> 
 
-
 ### 사용 기술
 - Python
 - MSSQL

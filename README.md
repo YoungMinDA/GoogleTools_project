@@ -11,6 +11,7 @@ Power BI & looker data studio 등 다양한 툴을 다루는 프로젝트입니�
 ### 사용 기술
 - Python
 - MSSQL
+- MYSQL
 - Excel
 - Power BI
 - looker data studio
